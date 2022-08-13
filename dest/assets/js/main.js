@@ -176,7 +176,7 @@
     },
   });
 
-    /*-----------------------------------
+  /*-----------------------------------
   # Properties slider
   ------------------------------ */
 
@@ -190,7 +190,6 @@
       el: ".properties-slider .swiper-pagination",
       clickable: true,
     },
-
 
     navigation: false,
     breakpoints: {
